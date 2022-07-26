@@ -9,6 +9,7 @@ Basicamente el trabajo consta de desarrollar un "pseudo o simple" sistema operat
 - Hilos y semáforos
 - Delegación de tareas con distintos ficheros y funciones (No todo fue hecho asi dado el tiempo personal del equipo para dedicarle al tp)
 - Memoria dinámica
+
 Puede que haya mas cosas pero cada uno las sufrira o disfrutara de acuerdo a su cursada.
 ## Dependencia importante
 Las [commons](https://github.com/sisoputnfrba/so-commons-library), que nos sirve para manejar listas, strings y demas estructuras que requieren el TP.
